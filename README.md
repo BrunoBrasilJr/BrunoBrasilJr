@@ -1,53 +1,67 @@
-# 👋 Hi, I'm Bruno Brasil
+# Hi, I'm Bruno Brasil 👋
 
-I'm a Front-end Developer focused on building clean, responsive and user-friendly web interfaces.
+Front-end Developer focused on building clean, responsive and user-centered web interfaces using modern JavaScript technologies.
 
 🎓 Student of Systems Analysis and Development (FATEC – 2026)  
 💻 Front-end Developer (Internship / Junior)  
-📍 Sorocaba – SP | Open to remote opportunities
+📍 Sorocaba – SP | Open to remote opportunities  
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- Strong foundation in **React, JavaScript (ES6+), HTML and CSS**
+I’m a front-end developer with a strong foundation in building responsive and accessible web applications.  
+I enjoy turning ideas into functional interfaces, focusing on usability, clean code and real-world scenarios.
+
+- Solid knowledge of **React, JavaScript (ES6+), HTML5 and CSS3**
 - Experience consuming **REST APIs** and handling dynamic data
 - Focus on **UI/UX, usability and responsive design**
-- Passionate about learning, clean code and real-world projects
+- Familiar with **Git/GitHub** and front-end project organization
+- Always learning and improving through hands-on projects
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Front-end:**  
-React · JavaScript · HTML5 · CSS3 · APIs REST · LocalStorage  
+React · JavaScript (ES6+) · HTML5 · CSS3 · REST APIs · LocalStorage  
 
 **UI/UX:**  
-Usability · Visual hierarchy · Responsiveness · User Experience  
+Usability · Visual Hierarchy · Responsiveness · User Experience  
 
 **Tools:**  
-Git · GitHub · VS Code
+Git · GitHub · VS Code  
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-- 🎬 **Cinex**  
-  Front-end application for browsing movies and series using external APIs  
-  👉 https://github.com/BrunoBrasilJr/cinex
+### 🎬 Cinex
+Front-end application for browsing and searching movies and TV series using an external API.  
+Focused on component organization, API consumption and responsive design.
 
-- 🌐 **ClaireFlow**  
-  UI-focused front-end project emphasizing organization, responsiveness and UX  
-  👉 https://github.com/BrunoBrasilJr/clairflow
-
-- 🧩 **Portfolio**  
-  Personal portfolio showcasing projects and front-end skills  
-  👉 https://github.com/BrunoBrasilJr/portfolio-bruno
+🔗 Repository: https://github.com/BrunoBrasilJr/cinex  
 
 ---
 
-## 📫 Contact
+### 🌐 ClaireFlow
+UI-focused front-end project emphasizing modern layouts, smooth interactions and usability principles.  
+Designed to simulate a real-world product landing page.
 
-- Email: brasilbruno39@gmail.com  
-- LinkedIn: https://linkedin.com/in/bruno-brasil-2474263a3
-- Portfolio: https://portfolio-bruno-psi.vercel.app
+🔗 Repository: https://github.com/BrunoBrasilJr/clairflow  
+
+---
+
+### 🧑‍💻 Portfolio
+Personal portfolio showcasing my projects, skills and front-end development experience.
+
+🔗 Repository: https://github.com/BrunoBrasilJr/portfolio-bruno  
+🔗 Live Demo: https://portfolio-bruno-psi.vercel.app  
+
+---
+
+## Contact
+
+📧 Email: brasilbruno39@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/bruno-brasil-2474263a3  
+🌐 Portfolio: https://portfolio-bruno-psi.vercel.app
