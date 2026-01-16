@@ -44,7 +44,7 @@ Focused on component organization, API consumption and responsive design.
 
 ---
 
-### 🌐 ClaireFlow
+### 🌐 ClairFlow
 UI-focused front-end project emphasizing modern layouts, smooth interactions and usability principles.  
 Designed to simulate a real-world product landing page.
 
