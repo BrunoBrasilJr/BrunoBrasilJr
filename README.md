@@ -1,33 +1,37 @@
-# Hi, I'm Bruno Brasil 👋
+# Bruno Brasil
 
-Front-end Developer focused on building clean, responsive and user-centered web interfaces using modern JavaScript technologies.
+Full Stack Developer (Junior) · React, UX and Digital Products
 
-🎓 Student of Systems Analysis and Development (FATEC – 2026)  
-💻 Front-end Developer (Internship / Junior)  
-📍 Sorocaba – SP | Open to remote opportunities  
+I build web interfaces focused on real usability — not just functional code, but systems that make sense to the user.
+
+I work mainly with React and JavaScript, creating responsive, well-structured interfaces with clear navigation and strong attention to user experience.
+
+I approach development with a product mindset: mapping flows, anticipating friction and making intentional decisions before writing code.
+
+Currently evolving into back-end development, focusing on business rules, system structure and scalable architecture.
 
 ---
 
 ## About Me
 
-I’m a front-end developer with a strong foundation in building responsive and accessible web applications.  
-I enjoy turning ideas into functional interfaces, focusing on usability, clean code and real-world scenarios.
-
-- Solid knowledge of **React, JavaScript (ES6+), HTML5 and CSS3**
-- Experience consuming **REST APIs** and handling dynamic data
-- Focus on **UI/UX, usability and responsive design**
-- Familiar with **Git/GitHub** and front-end project organization
-- Always learning and improving through hands-on projects
+- Strong focus on UX, usability and interface clarity  
+- Experience building real-world interfaces with React  
+- API integration and dynamic data handling  
+- Organized code and component-based architecture  
+- Constantly improving through practical projects  
 
 ---
 
 ## Tech Stack
 
 **Front-end:**  
-React · JavaScript (ES6+) · HTML5 · CSS3 · REST APIs · LocalStorage  
+React · JavaScript (ES6+) · HTML5 · CSS3  
 
-**UI/UX:**  
-Usability · Visual Hierarchy · Responsiveness · User Experience  
+**Back-end & Data:**  
+REST APIs · Firebase · MySQL · Java (learning)  
+
+**Concepts:**  
+UI/UX · Componentization · Responsive Design · Navigation Flow  
 
 **Tools:**  
 Git · GitHub · VS Code  
@@ -36,32 +40,47 @@ Git · GitHub · VS Code
 
 ## Featured Projects
 
-### 🎬 Cinex
-Front-end application for browsing and searching movies and TV series using an external API.  
-Focused on component organization, API consumption and responsive design.
+### FitHub — Gym Management System (Full Stack)
 
-🔗 Repository: https://github.com/BrunoBrasilJr/cinex  
+A complete system designed to manage students, workouts and access control.
 
----
+Built with a strong focus on product structure, business rules and user experience.
 
-### 🌐 ClairFlow
-UI-focused front-end project emphasizing modern layouts, smooth interactions and usability principles.  
-Designed to simulate a real-world product landing page.
-
-🔗 Repository: https://github.com/BrunoBrasilJr/clairflow  
+- Role-based access (admin and student) with distinct flows  
+- Business rules structured from the beginning  
+- Interface designed for clarity and operational usability  
+- Scalable structure with modular components  
 
 ---
 
-### 🧑‍💻 Portfolio
-Personal portfolio showcasing my projects, skills and front-end development experience.
+### Cinex — Movies & Series Platform
 
-🔗 Repository: https://github.com/BrunoBrasilJr/portfolio-bruno  
-🔗 Live Demo: https://portfolio-bruno-psi.vercel.app  
+React application using external API, focused on component structure and user navigation.
+
+- Reusable component architecture  
+- Clear visual hierarchy and responsive layout  
+- API consumption with loading, error and empty states  
+
+Repository:  
+https://github.com/BrunoBrasilJr/cinex  
+
+---
+
+### Clairflow — UX-Focused Interface
+
+Interface project focused on usability, layout structure and navigation flow.
+
+- Visual hierarchy designed for immediate understanding  
+- Flow mapped before implementation  
+- Interface built to reduce user friction  
+
+Repository:  
+https://github.com/BrunoBrasilJr/clairflow  
 
 ---
 
 ## Contact
 
-📧 Email: brasilbruno39@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/bruno-brasil-2474263a3  
-🌐 Portfolio: https://portfolio-bruno-psi.vercel.app
+Email: brasilbruno39@gmail.com  
+LinkedIn: https://linkedin.com/in/bruno-brasil-2474263a3  
+Portfolio: https://portfolio-bruno-psi.vercel.app  
