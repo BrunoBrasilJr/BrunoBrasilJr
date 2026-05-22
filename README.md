@@ -2,7 +2,7 @@
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,50:1e293b,100:020617&section=header&reversal=false" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,50:1e293b,100:020617&section=header" width="100%" />
 
 <br />
 
@@ -149,71 +149,29 @@ figma
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
 
-#### fithub
+## fithub
 
-sistema de gestão para academia, com foco em autenticação, área administrativa, alunos, treinos e experiência moderna.
-
-```txt
-next.js · typescript · spring boot · postgres
-```
-
-<a href="https://github.com/BrunoBrasilJr">
-  <img src="https://img.shields.io/badge/ver_projeto-020617?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=020617" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-#### flowops
-
-plataforma operacional para chamados, workflows, sla, analytics e automação entre setores empresariais.
-
-```txt
-produto digital · dashboard · ui/ux · sistema web
-```
-
-<a href="https://github.com/BrunoBrasilJr">
-  <img src="https://img.shields.io/badge/ver_projeto-020617?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=020617" />
-</a>
-
-</td>
-  </tr>
-</table>
+sistema de gestão para academia com foco em experiência moderna, autenticação, área administrativa, gerenciamento de alunos e arquitetura full stack.
 
 <br />
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-
-#### fatec scheduler
-
-sistema para organização de horários, cursos, salas, professores, turmas e grades acadêmicas.
-
 ```txt
-front-end · protótipo · componentes · ux
+next.js · typescript · spring boot · postgres · docker
 ```
 
-<a href="https://github.com/BrunoBrasilJr">
-  <img src="https://img.shields.io/badge/ver_projeto-020617?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=020617" />
-</a>
+<br />
 
-</td>
-<td width="50%" valign="top">
+<p>
+  <a href="https://github.com/BrunoBrasilJr/fithub-update">
+    <img src="https://img.shields.io/badge/source-020617?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=020617" />
+  </a>
+</p>
 
-#### portfolio
+<br />
 
-portfolio pessoal focado em apresentação profissional, interfaces suaves e identidade visual moderna.
-
-```txt
-next.js · css modules · motion · ui
-```
-
-<a href="https://github.com/BrunoBrasilJr">
-  <img src="https://img.shields.io/badge/ver_projeto-020617?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=020617" />
-</a>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoBrasilJr&repo=fithub-update&hide_border=true&bg_color=020617&title_color=f8fafc&text_color=94a3b8&icon_color=38bdf8" />
 
 </td>
   </tr>
@@ -242,21 +200,48 @@ next.js · css modules · motion · ui
 
 <div align="center">
 
-### contato
+### vamos construir algo?
 
 <p>
-  <a href="mailto:brasilbruno39@gmail.com">email</a>
-  &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/BrunoBrasilJr">linkedin</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/BrunoBrasilJr">github</a>
+  aberto para oportunidades, projetos, ideias e conversas sobre tecnologia, produto e interfaces digitais.
 </p>
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=13&duration=3500&pause=1200&color=64748B&center=true&vCenter=true&width=600&lines=clean+interfaces.+scalable+systems.+better+experiences." alt="footer typing animation" />
+<table>
+  <tr>
+    <td align="center">
+      <a href="mailto:brasilbruno39@gmail.com">
+        <img src="https://img.shields.io/badge/enviar_email-020617?style=for-the-badge&logo=gmail&logoColor=38bdf8&labelColor=020617" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/BrunoBrasilJr">
+        <img src="https://img.shields.io/badge/conectar_no_linkedin-020617?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=020617" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/BrunoBrasilJr">
+        <img src="https://img.shields.io/badge/ver_github-020617?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=020617" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+```txt
+clean interfaces · scalable systems · better experiences
+```
+
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=13&duration=3500&pause=1200&color=64748B&center=true&vCenter=true&width=600&lines=thanks+for+visiting.;always+building%2C+always+improving." alt="footer typing animation" />
 
 <br />
 <br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:020617,50:1e293b,100:0f172a&section=footer" width="100%" />
 
 </div>
+````
