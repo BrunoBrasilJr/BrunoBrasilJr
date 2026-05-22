@@ -85,7 +85,7 @@ gosto de transformar ideias em sistemas limpos, responsivos e escaláveis, unind
 &nbsp;&nbsp;&nbsp;
 <img title="GitHub" alt="GitHub" width="32" src="https://cdn.simpleicons.org/github/FFFFFF" />
 &nbsp;&nbsp;&nbsp;
-<img title="VS Code" alt="VS Code" width="32" src="https://cdn.simpleicons.org/visualstudiocode/38BDF8" />
+<img title="VS Code" alt="VS Code" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 &nbsp;&nbsp;&nbsp;
 <img title="Figma" alt="Figma" width="32" src="https://cdn.simpleicons.org/figma/A855F7" />
 
@@ -127,13 +127,13 @@ aberto para oportunidades, projetos e conversas sobre front-end, produto digital
 <br />
 
 <a href="https://linkedin.com/in/BrunoBrasilJr">
-  <img src="https://img.shields.io/badge/linkedin-111827?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
+  <img title="LinkedIn" alt="LinkedIn" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/BrunoBrasilJr">
-  <img src="https://img.shields.io/badge/github-111827?style=for-the-badge&logo=github&logoColor=ffffff" />
+  <img title="GitHub" alt="GitHub" width="32" src="https://cdn.simpleicons.org/github/FFFFFF" />
 </a>
 
 <br />
