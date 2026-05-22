@@ -113,17 +113,18 @@ aberto para oportunidades, projetos e conversas sobre front-end, produto digital
 <br />
 <br />
 
-<a href="https://linkedin.com/in/BrunoBrasilJr">
-  <img title="LinkedIn" alt="LinkedIn" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/BrunoBrasilJr">
+    <img title="LinkedIn" alt="LinkedIn" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
 
-&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/BrunoBrasilJr">
-  <img title="GitHub" alt="GitHub" width="32" src="https://cdn.simpleicons.org/github/FFFFFF" />
-</a>
+  <a href="https://github.com/BrunoBrasilJr">
+    <img title="GitHub" alt="GitHub" width="32" src="https://cdn.simpleicons.org/github/FFFFFF" />
+  </a>
+</p>
 
-<br />
 <br />
 
 <sub>clean interfaces · scalable systems · better experiences</sub>
