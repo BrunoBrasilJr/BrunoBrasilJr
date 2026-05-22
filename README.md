@@ -47,63 +47,47 @@ gosto de transformar ideias em sistemas limpos, responsivos e escaláveis, unind
 
 ### frontend
 
-<a title="TypeScript">
-  <img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=typescript&logoColor=38bdf8" alt="TypeScript" />
-</a>
-<a title="React">
-  <img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=react&logoColor=38bdf8" alt="React" />
-</a>
-<a title="Next.js">
-  <img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js" />
-</a>
-<a title="JavaScript">
-  <img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=javascript&logoColor=facc15" alt="JavaScript" />
-</a>
-<a title="HTML5">
-  <img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=html5&logoColor=f97316" alt="HTML5" />
-</a>
-<a title="CSS3">
-  <img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=css3&logoColor=38bdf8" alt="CSS3" />
-</a>
+<img title="TypeScript" alt="TypeScript" width="32" src="https://cdn.simpleicons.org/typescript/38BDF8" />
+&nbsp;&nbsp;&nbsp;
+<img title="React" alt="React" width="32" src="https://cdn.simpleicons.org/react/38BDF8" />
+&nbsp;&nbsp;&nbsp;
+<img title="Next.js" alt="Next.js" width="32" src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" />
+&nbsp;&nbsp;&nbsp;
+<img title="JavaScript" alt="JavaScript" width="32" src="https://cdn.simpleicons.org/javascript/FACC15" />
+&nbsp;&nbsp;&nbsp;
+<img title="HTML5" alt="HTML5" width="32" src="https://cdn.simpleicons.org/html5/F97316" />
+&nbsp;&nbsp;&nbsp;
+<img title="CSS3" alt="CSS3" width="32" src="https://cdn.simpleicons.org/css/38BDF8" />
 
+<br />
 <br />
 <br />
 
 ### backend
 
-<a title="Java">
-  <img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=openjdk&logoColor=f97316" alt="Java" />
-</a>
-<a title="Spring Boot">
-  <img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=springboot&logoColor=22c55e" alt="Spring Boot" />
-</a>
-<a title="Node.js">
-  <img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=nodedotjs&logoColor=22c55e" alt="Node.js" />
-</a>
-<a title="PostgreSQL">
-  <img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=postgresql&logoColor=38bdf8" alt="PostgreSQL" />
-</a>
+<img title="Java" alt="Java" width="32" src="https://cdn.simpleicons.org/openjdk/F97316" />
+&nbsp;&nbsp;&nbsp;
+<img title="Spring Boot" alt="Spring Boot" width="32" src="https://cdn.simpleicons.org/springboot/22C55E" />
+&nbsp;&nbsp;&nbsp;
+<img title="Node.js" alt="Node.js" width="32" src="https://cdn.simpleicons.org/nodedotjs/22C55E" />
+&nbsp;&nbsp;&nbsp;
+<img title="PostgreSQL" alt="PostgreSQL" width="32" src="https://cdn.simpleicons.org/postgresql/38BDF8" />
 
+<br />
 <br />
 <br />
 
 ### tools
 
-<a title="Docker">
-  <img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=docker&logoColor=38bdf8" alt="Docker" />
-</a>
-<a title="Git">
-  <img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=git&logoColor=f97316" alt="Git" />
-</a>
-<a title="GitHub">
-  <img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
-</a>
-<a title="VS Code">
-  <img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=visualstudiocode&logoColor=38bdf8" alt="VS Code" />
-</a>
-<a title="Figma">
-  <img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=figma&logoColor=a855f7" alt="Figma" />
-</a>
+<img title="Docker" alt="Docker" width="32" src="https://cdn.simpleicons.org/docker/38BDF8" />
+&nbsp;&nbsp;&nbsp;
+<img title="Git" alt="Git" width="32" src="https://cdn.simpleicons.org/git/F97316" />
+&nbsp;&nbsp;&nbsp;
+<img title="GitHub" alt="GitHub" width="32" src="https://cdn.simpleicons.org/github/FFFFFF" />
+&nbsp;&nbsp;&nbsp;
+<img title="VS Code" alt="VS Code" width="32" src="https://cdn.simpleicons.org/visualstudiocode/38BDF8" />
+&nbsp;&nbsp;&nbsp;
+<img title="Figma" alt="Figma" width="32" src="https://cdn.simpleicons.org/figma/A855F7" />
 
 </div>
 
