@@ -1,38 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:020617,50:0f172a,100:1e293b&section=header" width="100%" />
-
 <br />
 
 # Bruno Brasil
 
-### front-end focused full stack developer
-
-building clean interfaces, scalable systems and modern digital experiences.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=front-end+focused+full+stack+developer;clean+interfaces+%C2%B7+scalable+systems;ui%2Fux+%C2%B7+performance+%C2%B7+digital+products" alt="typing animation" />
 
 <br />
+<br />
 
-<p align="center">
-  <a href="mailto:brasilbruno39@gmail.com">
-    <img src="https://img.shields.io/badge/email-111827?style=for-the-badge&logo=gmail&logoColor=38bdf8" />
-  </a>
-  
-  <a href="https://github.com/BrunoBrasilJr">
-    <img src="https://img.shields.io/badge/github-111827?style=for-the-badge&logo=github&logoColor=ffffff" />
-  </a>
+<a href="mailto:brasilbruno39@gmail.com">
+  <img src="https://img.shields.io/badge/email-111827?style=for-the-badge&logo=gmail&logoColor=38bdf8" />
+</a>
+<a href="https://github.com/BrunoBrasilJr">
+  <img src="https://img.shields.io/badge/github-111827?style=for-the-badge&logo=github&logoColor=ffffff" />
+</a>
+<a href="https://linkedin.com/in/BrunoBrasilJr">
+  <img src="https://img.shields.io/badge/linkedin-111827?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
+</a>
 
-  <a href="https://linkedin.com/in/BrunoBrasilJr">
-    <img src="https://img.shields.io/badge/linkedin-111827?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
-  </a>
-</p>
-
+<br />
 <br />
 
 </div>
 
 ---
 
-# about
+## about
 
 ```txt
 front-end first.
@@ -43,94 +37,83 @@ real products.
 
 desenvolvedor full stack com foco em interfaces modernas, experiência do usuário e construção de produtos digitais.
 
-gosto de transformar ideias em sistemas limpos, responsivos e escaláveis.
+gosto de transformar ideias em sistemas limpos, responsivos e escaláveis, unindo design, código e usabilidade.
 
 ---
 
-# stack
+## stack
 
 <div align="center">
 
-## frontend
+### frontend
 
-<img src="https://skillicons.dev/icons?i=ts,react,next,js,html,css&theme=dark" />
-
-<br />
-<br />
-
-## backend
-
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,postgres&theme=dark" />
+<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=facc15" />
+<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=f97316" />
+<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=38bdf8" />
 
 <br />
 <br />
 
-## tools
+### backend
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma&theme=dark" />
+<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=f97316" />
+<img src="https://img.shields.io/badge/Spring_Boot-111827?style=for-the-badge&logo=springboot&logoColor=22c55e" />
+<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=22c55e" />
+<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=38bdf8" />
+
+<br />
+<br />
+
+### tools
+
+<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=f97316" />
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=a855f7" />
 
 </div>
 
 ---
 
-# selected work
+## selected work
 
 <div align="center">
 
-## FitHub
+### FitHub
 
-sistema de gestão para academia com foco em experiência moderna, autenticação, gerenciamento de alunos e arquitetura full stack.
+sistema de gestão para academia com foco em experiência moderna, autenticação, área administrativa, gerenciamento de alunos e arquitetura full stack.
 
 ```txt
 next.js · typescript · spring boot · postgres · docker
 ```
 
-<br />
-
 <a href="https://github.com/BrunoBrasilJr/fithub-update">
   <img src="https://img.shields.io/badge/view_project-111827?style=for-the-badge&logo=github&logoColor=ffffff" />
 </a>
 
-<br />
-<br />
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunoBrasilJr&repo=fithub-update&hide_border=true&bg_color=020617&title_color=f8fafc&text_color=94a3b8&icon_color=38bdf8" />
-
 </div>
 
 ---
 
-# github
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=BrunoBrasilJr&show_icons=true&hide_border=true&bg_color=020617&title_color=f8fafc&text_color=94a3b8&icon_color=38bdf8" />
-
-<br />
-<br />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBrasilJr&layout=compact&hide_border=true&bg_color=020617&title_color=f8fafc&text_color=94a3b8" />
-
-</div>
-
----
-
-# contact
+## contact
 
 <div align="center">
 
 aberto para oportunidades, projetos e experiências na área de desenvolvimento front-end e produtos digitais.
 
 <br />
+<br />
 
 <a href="mailto:brasilbruno39@gmail.com">
   <img src="https://img.shields.io/badge/send_email-111827?style=for-the-badge&logo=gmail&logoColor=38bdf8" />
 </a>
-
 <a href="https://linkedin.com/in/BrunoBrasilJr">
-  <img src="https://img.shields.io/badge/linkedin-111827?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/connect_linkedin-111827?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
 </a>
-
 <a href="https://github.com/BrunoBrasilJr">
   <img src="https://img.shields.io/badge/github-111827?style=for-the-badge&logo=github&logoColor=ffffff" />
 </a>
@@ -143,7 +126,3 @@ clean interfaces · scalable systems · better experiences
 ```
 
 </div>
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1e293b,50:0f172a,100:020617&section=footer" width="100%" />
