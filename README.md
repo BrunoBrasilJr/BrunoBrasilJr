@@ -47,33 +47,63 @@ gosto de transformar ideias em sistemas limpos, responsivos e escaláveis, unind
 
 ### frontend
 
-<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=facc15" />
-<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=f97316" />
-<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=38bdf8" />
+<a title="TypeScript">
+  <img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=typescript&logoColor=38bdf8" alt="TypeScript" />
+</a>
+<a title="React">
+  <img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=react&logoColor=38bdf8" alt="React" />
+</a>
+<a title="Next.js">
+  <img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js" />
+</a>
+<a title="JavaScript">
+  <img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=javascript&logoColor=facc15" alt="JavaScript" />
+</a>
+<a title="HTML5">
+  <img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=html5&logoColor=f97316" alt="HTML5" />
+</a>
+<a title="CSS3">
+  <img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=css3&logoColor=38bdf8" alt="CSS3" />
+</a>
 
 <br />
 <br />
 
 ### backend
 
-<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=f97316" />
-<img src="https://img.shields.io/badge/Spring_Boot-111827?style=for-the-badge&logo=springboot&logoColor=22c55e" />
-<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=22c55e" />
-<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=38bdf8" />
+<a title="Java">
+  <img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=openjdk&logoColor=f97316" alt="Java" />
+</a>
+<a title="Spring Boot">
+  <img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=springboot&logoColor=22c55e" alt="Spring Boot" />
+</a>
+<a title="Node.js">
+  <img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=nodedotjs&logoColor=22c55e" alt="Node.js" />
+</a>
+<a title="PostgreSQL">
+  <img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=postgresql&logoColor=38bdf8" alt="PostgreSQL" />
+</a>
 
 <br />
 <br />
 
 ### tools
 
-<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=f97316" />
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=38bdf8" />
-<img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=a855f7" />
+<a title="Docker">
+  <img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=docker&logoColor=38bdf8" alt="Docker" />
+</a>
+<a title="Git">
+  <img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=git&logoColor=f97316" alt="Git" />
+</a>
+<a title="GitHub">
+  <img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+</a>
+<a title="VS Code">
+  <img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=visualstudiocode&logoColor=38bdf8" alt="VS Code" />
+</a>
+<a title="Figma">
+  <img src="https://img.shields.io/badge/-111827?style=for-the-badge&logo=figma&logoColor=a855f7" alt="Figma" />
+</a>
 
 </div>
 
