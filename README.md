@@ -117,26 +117,22 @@ next.js · typescript · spring boot · postgres · docker
 
 <div align="center">
 
-aberto para oportunidades, projetos e experiências na área de desenvolvimento front-end e produtos digitais.
+### let's build something clean.
+
+aberto para oportunidades, projetos e conversas sobre front-end, produto digital e experiências web.
 
 <br />
-<br />
 
-<a href="mailto:brasilbruno39@gmail.com">
-  <img src="https://img.shields.io/badge/send_email-111827?style=for-the-badge&logo=gmail&logoColor=38bdf8" />
-</a>
 <a href="https://linkedin.com/in/BrunoBrasilJr">
-  <img src="https://img.shields.io/badge/connect_linkedin-111827?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/connect_on_linkedin-111827?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
 </a>
 <a href="https://github.com/BrunoBrasilJr">
-  <img src="https://img.shields.io/badge/github-111827?style=for-the-badge&logo=github&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/explore_github-111827?style=for-the-badge&logo=github&logoColor=ffffff" />
 </a>
 
 <br />
 <br />
 
-```txt
-clean interfaces · scalable systems · better experiences
-```
+<sub>clean interfaces · scalable systems · better experiences</sub>
 
 </div>
