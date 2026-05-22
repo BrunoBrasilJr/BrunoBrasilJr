@@ -105,6 +105,8 @@ sistema de gestão para academia com foco em experiência moderna, autenticaçã
 next.js · typescript · spring boot · postgres · docker
 ```
 
+<br />
+
 <a href="https://github.com/BrunoBrasilJr/fithub-update">
   <img src="https://img.shields.io/badge/view_project-111827?style=for-the-badge&logo=github&logoColor=ffffff" />
 </a>
@@ -122,12 +124,16 @@ next.js · typescript · spring boot · postgres · docker
 aberto para oportunidades, projetos e conversas sobre front-end, produto digital e experiências web.
 
 <br />
+<br />
 
 <a href="https://linkedin.com/in/BrunoBrasilJr">
-  <img src="https://img.shields.io/badge/connect_on_linkedin-111827?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/linkedin-111827?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
 </a>
+
+&nbsp;
+
 <a href="https://github.com/BrunoBrasilJr">
-  <img src="https://img.shields.io/badge/explore_github-111827?style=for-the-badge&logo=github&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/github-111827?style=for-the-badge&logo=github&logoColor=ffffff" />
 </a>
 
 <br />
