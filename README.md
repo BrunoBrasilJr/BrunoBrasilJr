@@ -9,19 +9,6 @@
 <br />
 <br />
 
-<a href="mailto:brasilbruno39@gmail.com">
-  <img src="https://img.shields.io/badge/email-111827?style=for-the-badge&logo=gmail&logoColor=38bdf8" />
-</a>
-<a href="https://github.com/BrunoBrasilJr">
-  <img src="https://img.shields.io/badge/github-111827?style=for-the-badge&logo=github&logoColor=ffffff" />
-</a>
-<a href="https://linkedin.com/in/BrunoBrasilJr">
-  <img src="https://img.shields.io/badge/linkedin-111827?style=for-the-badge&logo=linkedin&logoColor=38bdf8" />
-</a>
-
-<br />
-<br />
-
 </div>
 
 ---
