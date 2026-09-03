@@ -4,7 +4,7 @@
 
 # Bruno Brasil
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=front-end+focused+full+stack+developer;clean+interfaces+%C2%B7+scalable+systems;ui%2Fux+%C2%B7+performance+%C2%B7+digital+products" alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=full+stack+developer;modern+web+applications+%C2%B7+scalable+systems;ui%2Fux+%C2%B7+performance+%C2%B7+clean+code" alt="typing animation" />
 
 <br />
 <br />
@@ -16,15 +16,15 @@
 ## about
 
 ```txt
-front-end first.
-clean ui.
+full stack development.
+clean architecture.
 smooth experiences.
 real products.
 ```
 
-desenvolvedor full stack com foco em interfaces modernas, experiência do usuário e construção de produtos digitais.
+desenvolvedor full stack focado na construção de aplicações web modernas, funcionais e bem estruturadas.
 
-gosto de transformar ideias em sistemas limpos, responsivos e escaláveis, unindo design, código e usabilidade.
+gosto de transformar ideias em produtos completos, conectando interfaces, APIs e bancos de dados sem deixar de lado experiência do usuário, organização e qualidade de código.
 
 ---
 
@@ -86,10 +86,10 @@ gosto de transformar ideias em sistemas limpos, responsivos e escaláveis, unind
 
 ### FitHub
 
-sistema de gestão para academia com foco em experiência moderna, autenticação, área administrativa, gerenciamento de alunos e arquitetura full stack.
+aplicação full stack para gestão de academias, com autenticação, diferentes perfis de usuário, gerenciamento de alunos e treinos, área administrativa e dashboards.
 
 ```txt
-next.js · typescript · spring boot · postgres · docker
+next.js · typescript · java · spring boot · postgresql · docker
 ```
 
 <br />
@@ -106,14 +106,14 @@ next.js · typescript · spring boot · postgres · docker
 
 <div align="center">
 
-### let's build something clean.
+### let's build something useful.
 
-aberto para oportunidades, projetos e conversas sobre front-end, produto digital e experiências web.
+aberto para oportunidades, projetos e conversas sobre desenvolvimento full stack, produtos digitais e experiências web.
 
 <br />
 <br />
 
-<a href="https://linkedin.com/in/BrunoBrasilJr">
+<a href="https://www.linkedin.com/in/bruno-brasil-2474263a3/">
   <img align="center" title="LinkedIn" alt="LinkedIn" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 &nbsp;&nbsp;&nbsp;
@@ -124,6 +124,6 @@ aberto para oportunidades, projetos e conversas sobre front-end, produto digital
 <br />
 <br />
 
-<sub>clean interfaces · scalable systems · better experiences</sub>
+<sub>clean code · scalable systems · better experiences</sub>
 
 </div>
